@@ -1,0 +1,55 @@
+body{
+    background:#00BFFF;
+    font-family: sans-serif;    
+}
+.box{
+    position: relative;
+}
+.header__img{
+    margin: 32px 38px;
+}
+.center-block{
+    margin: -40px 0px 153px 150px;
+    background: #8CD6FF;
+    border-radius: 10px;
+    position: absolute;
+    width: 346.12px;
+    height: 350px;
+    left: 355px;
+    top: 158px;
+}
+.text{
+    color: #000;
+    font-family: Pavanam;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.input-in{
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 15px 10px 20px;
+    width: 280px;
+    border: 1px solid #999;
+    outline: none;
+    text-align: center;
+}
+
+button{
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 15px 10px 20px;
+    width: 300px;
+    border: 1px solid #999;
+    outline: none;
+    text-align: center;
+    border: none;
+}
+.img2{
+    position: absolute;
+    width: 267px;
+    height: 268px;
+    right: 5px;
+    top: 432px;
+    bottom: 1px;
+}
